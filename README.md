@@ -1,2 +1,2 @@
 # Portofolio-Web-2023
-Web
+https://lucasabirama.github.io/Portofolio-Web-2023/
